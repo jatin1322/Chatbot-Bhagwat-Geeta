@@ -1,0 +1,1 @@
+sudo docker run -p 8000:8000 jatin1322/chatbot:latest
