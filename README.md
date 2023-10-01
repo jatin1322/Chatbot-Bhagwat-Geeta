@@ -110,7 +110,7 @@ The Bhagwat Geeta Chatbot is composed of two main components:
    - Run the Docker container with port mapping (replace `8000:8000` with the desired port mapping):
 
      ```bash
-     docker run -p 8000:8000 jatin1322/chatbot
+     docker run -p 8000:8000 jatin1322/chatbot:latest
      ```
 
 
